@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
-<h3 align="center">Lost in the world of programming</h3>
-
+<h3 align="center">Lost in the world of programming 🤠</h3>
+<h4 align="center">I create simple games in JS and C# 🎮</h4>
 ---
 
 ### 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/pawe%C5%82-szatanik-712b47282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/pawe%C5%82-szatanik-712b47282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:pawel.szatanik.priv@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/pawcix"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
