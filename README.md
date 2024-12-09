@@ -25,5 +25,5 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcix&show_icons=true&locale=en&layout=compact&theme=dark" alt="pawcix's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawcix&show_icons=true&locale=en&layout=compact" alt="pawcix's Top Languages" />
 </div>
