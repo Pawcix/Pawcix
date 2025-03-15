@@ -1,16 +1,19 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
 <h3 align="center">Lost in the world of programming 🤠</h3>
 ---
-
 ### 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/pawe%C5%82-szatanik-712b47282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:pawel.szatanik.priv@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/pawcix"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
 ---
-
+### 🛠️ Languages and Tools ( Game Dev ) :
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+</div>
+---
 ### 🛠️ Languages and Tools ( Frontend ) :
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" />
@@ -21,9 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 </div>
 
----
-### 🛠️ Languages and Tools ( Game Dev ) :
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</div>
+
