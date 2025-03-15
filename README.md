@@ -5,7 +5,7 @@
 
 ### 🛠️ Languages and Tools ( Game Dev ) :
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/946/106/png-transparent-unity-white-logo-tech-companies-thumbnail.png" alt="unity" width="150" height="50"/>  
+  <img src="https://i.pinimg.com/474x/8c/71/58/8c71585dab5d9c39242bd3e80f3418f8.jpg" alt="unity" width="50" height="50"/>   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png" alt="aseprite" width="50" height="50"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="git" width="50" height="50"/>   
