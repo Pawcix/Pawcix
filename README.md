@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
 <h3 align="center">Lost in the world of programming</h3>
-<h5 align="center">🧡 Game Dev / Frontend Dev 💚</h5>
+<h5 align="center">🧡 Game Dev | Frontend Dev 💚</h5>
 
 ---
 
