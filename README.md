@@ -4,7 +4,7 @@
 
 ---
 
-### 🎮 Game Dev ( Languages and Tools ):
+### 🎮 Game Dev
 <div align="left">
   <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unity" width="50" height="50"/>   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
@@ -14,7 +14,7 @@
 
 ---
 
-### 🎨 Frontend ( Languages and Tools ):
+### 🎨 Frontend
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
