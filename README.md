@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
-<h5 align="center">🧡 Game Dev 💚</h5>
 
 ---
 
