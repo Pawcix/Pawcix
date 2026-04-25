@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
 
 ---
-
-### 🎮 Game Dev
-<div align="left">
+<div align="center">
   <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="unity" width="50" height="50"/>   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png" alt="aseprite" width="50" height="50"/> 
