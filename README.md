@@ -1,6 +1,6 @@
 <p align="center">
-  <strong style="font-size: 32px;">👋 Hi, I'm Paweł Szatanik</strong><br>
-  <span style="font-size: 24px;">Welcome to my world</span>
+  <strong style="font-size: 42px;">👋 Hi, I'm Paweł Szatanik</strong><br>
+  <span style="font-size: 42px;">Welcome to my world</span>
 </p>
 
 <p align="center">
