@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="[https://media.tenor.com/sdZiwjOuWhYAAAAe/peepo-pepe.png](https://cdn3.emoji.gg/emojis/93659-pepebedjump.gif" width="75"/></a> 
+  <a href="#">
+    <img src="https://cdn3.emoji.gg/emojis/93659-pepebedjump.gif" alt="Pepe" width="75"/>
+  </a>
 </p>
 
 
