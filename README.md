@@ -9,9 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://cdn3.emoji.gg/emojis/93659-pepebedjump.gif" alt="Pepe" width="75"/>
-  </a>
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/82515-darkpet.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/4460_PixelPepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/2533-bunnypeped.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/5261-sombreopeped.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/6424-pepecowboy.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/238671-petpetpepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
 </p>
 
 
