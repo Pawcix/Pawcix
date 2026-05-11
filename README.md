@@ -1,5 +1,5 @@
-<p align="center" style="font-size: 2em; font-weight: bold;">👋 Hi, I'm Paweł Szatanik</p>
-<p align="center" style="font-size: 1.5em; font-weight: bold;">Welcome to my world</p>
+<h1 align="center" style="font-size: 2em; font-weight: bold;">👋 Hi, I'm Paweł Szatanik</h1>
+<h2 align="center" style="font-size: 1.5em; font-weight: bold;">Welcome to my world</h2>
 
 <p align="center">
   <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="75"/></a>&nbsp;&nbsp;
