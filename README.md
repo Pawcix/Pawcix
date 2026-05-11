@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Paweł Szatanik
-## Welcome to my world
+<p align="center">
+  <strong style="font-size: 32px;">👋 Hi, I'm Paweł Szatanik</strong><br>
+  <span style="font-size: 24px;">Welcome to my world</span>
+</p>
 
 <p align="center">
   <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="75"/></a>&nbsp;&nbsp;
