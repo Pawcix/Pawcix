@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
 
----
+<h2 align="center">Welcome to my world</h2>&nbsp;&nbsp;
 
 <p align="center">
   <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="75"/></a>&nbsp;&nbsp;
@@ -8,7 +8,6 @@
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" alt="Aseprite" width="75"/></a> 
 </p>
 
-<h2 align="center">Welcome to my world</h2>&nbsp;&nbsp;
 <p align="center">
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/82515-darkpet.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/4460_PixelPepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
