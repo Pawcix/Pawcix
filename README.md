@@ -8,7 +8,6 @@
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" alt="Aseprite" width="75"/></a> 
 </p>
 
----
 <h2 align="center">Welcome to my world</h2>&nbsp;&nbsp;
 
 <p align="center">
