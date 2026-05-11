@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
-
 <h2 align="center">Welcome to my world</h2>&nbsp;&nbsp;
 
 <p align="center">
