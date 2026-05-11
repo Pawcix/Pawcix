@@ -13,7 +13,10 @@
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/4460_PixelPepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/2533-bunnypeped.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/5261-sombreopeped.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
-  <a href="#"><img src="https://cdn3.emoji.gg/emojis/6424-pepecowboy.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/6424-pepecowboy.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/2076_pepechristmashype.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/9756_AppJedi.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn3.emoji.gg/emojis/3307-piratepeped.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/238671-petpetpepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
 </p>
 
