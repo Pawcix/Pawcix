@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-  <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75" height="75" hspace="10"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1920px-Logo_Aseprite.svg.png" alt="Aseprite" width="75" height="75" />
+  <a href="#"><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/512px-Logo_Aseprite.svg.png" alt="Aseprite" width="75"/></a>
 </p>
 ---
 
