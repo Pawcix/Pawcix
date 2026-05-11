@@ -8,6 +8,9 @@
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" alt="Aseprite" width="75"/></a> 
 </p>
 
+---
+<h2 align="center">Welcome to my world</h2>
+
 <p align="center">
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/82515-darkpet.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/4460_PixelPepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp; 
@@ -20,7 +23,7 @@
   <a href="#"><img src="https://cdn3.emoji.gg/emojis/238671-petpetpepe.gif" alt="Pepe" width="75"/></a>&nbsp;&nbsp;
 </p>
 
-
+---
 
 <div align="center"> <a href="https://www.linkedin.com/in/pawe%C5%82-szatanik-712b47282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:pawel.szatanik.priv@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/pawcix"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></div>
 
