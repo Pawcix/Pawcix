@@ -13,23 +13,21 @@
   <tr>
     <td align="center" width="100">
       <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png" alt="Unity" width="70"/><br />
-      <sub>Unity</sub>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="70"/><br />
-      <sub>Unity</sub>
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png" alt="Aseprite" width="60"/><br />
-      <sub>Unity</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1920px-Figma-logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Figma" width="60"/><br />
     </td>
     <td align="center" width="100">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png" alt="Steam" width="70"/><br />
-      <sub>Unity</sub>
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Google Play" width="60"/><br />
-      <sub>Unity</sub>
     </td>
     
 ###
