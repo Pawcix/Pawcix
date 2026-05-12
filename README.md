@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/3840px-Steam_icon_logo.svg.png" alt="Steam" width="75"/></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Google Play" width="75"/></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/960px-Google_Play_2022_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Google Play" width="65"/></a>&nbsp;&nbsp;
 </p>
 
 ###
