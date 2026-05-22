@@ -1,5 +1,6 @@
 <p align="center">
   <h1 align="center">👋 Hi, I'm Paweł Szatanik</h1>
+  <h2 align="center">INDIE Game Developer</h2>
 </p>
 
 ###
